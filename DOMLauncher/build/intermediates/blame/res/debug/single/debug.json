@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ondemand_overlay.9.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ondemand_overlay.9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_verify_checkmark.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\verify_checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-port-hdpi_screen.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-port-hdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dropdown_popup_background_up.9.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_search.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-hdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ondemand_overlay.9.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ondemand_overlay.9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\raw_xwalk.pak.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\xwalk.pak"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_refresh_blue.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\refresh_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_refresh_gray.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\refresh_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_ondemand_overlay.9.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\ondemand_overlay.9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout-v17_color_picker_dialog_title.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\color_picker_dialog_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_refresh_gray.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\refresh_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_dropdown_popup_background.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dropdown_popup_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-hdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_bubble.9.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bubble.9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout_color_picker_advanced_component.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout\\color_picker_advanced_component.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_warning.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_bubble_arrow_up.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bubble_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\raw_messaging_api.js.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\messaging_api.js"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-xhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout_validation_message_bubble.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout\\validation_message_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout-v17_date_time_suggestion.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\date_time_suggestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout-v17_color_picker_advanced_component.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\color_picker_advanced_component.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_refresh_gray.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\refresh_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_color_picker_advanced_select_handle.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_screen.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-land-hdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout-v17_validation_message_bubble.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\validation_message_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout_dropdown_item.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\xml_config.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-port-xhdpi_screen.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-port-xhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout_multi_field_time_picker_dialog.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout\\multi_field_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_color_picker_advanced_select_handle.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_color_button_background.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\color_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout-v17_color_picker_dialog_content.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\color_picker_dialog_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\menu_select_action_menu.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\menu\\select_action_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi_screen.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-land-ldpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout_color_picker_dialog_title.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout\\color_picker_dialog_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_color_picker_advanced_select_handle.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_refresh_blue.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\refresh_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-mdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_refresh_gray.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\refresh_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\raw_icudtl.dat.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\icudtl.dat"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\raw_contacts_api.js.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\contacts_api.js"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-mdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_warning.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_dropdown_popup_background_down.9.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_dropdown_popup_background_down.9.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_search.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_bubble.9.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bubble.9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_search.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-mdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout_color_picker_dialog_content.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout\\color_picker_dialog_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-xhdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\raw_presentation_api.js.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\presentation_api.js"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout-v17_dropdown_item.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dropdown_popup_background_down.9.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_verify_checkmark.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\verify_checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\raw_device_capabilities_api.js.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\device_capabilities_api.js"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-xxhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_bubble.9.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bubble.9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi_screen.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-land-mdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_bubble_arrow_up.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bubble_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_dropdown_popup_background_up.9.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout-v17_multi_field_time_picker_dialog.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\multi_field_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\raw_launch_screen_api.js.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\launch_screen_api.js"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi_screen.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-land-xhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_ic_warning.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout_two_field_date_picker.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout\\two_field_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_refresh_blue.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\refresh_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_refresh_gray.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\refresh_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-xxhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_color_picker_border.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\color_picker_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_verify_checkmark.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\verify_checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout_date_time_suggestion.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout\\date_time_suggestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_verify_checkmark.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\verify_checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout-v17_two_field_date_picker.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout-v17\\two_field_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_dropdown_popup_background_up.9.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_refresh_blue.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\refresh_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi_screen.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-port-ldpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_warning.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_refresh_blue.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\refresh_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout-land_date_time_picker_dialog.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout-land\\date_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_search.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi_screen.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\src\\main\\res\\drawable-port-mdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_bubble_arrow_up.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bubble_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable_verify_checkmark.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\verify_checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_warning.png.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\res\\merged\\debug\\layout_date_time_picker_dialog.xml.flat",
+        "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\layout\\date_time_picker_dialog.xml"
+    }
+]

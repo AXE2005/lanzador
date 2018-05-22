@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\DOMLauncher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\usuario\\Documents\\GitHub\\Lanzador-SH\\lanzador\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,242,372,491",
+                        "endLines": "4,7,10,14",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "237,367,486,730"
+                    }
+                }
+            ]
+        }
+    ]
+}

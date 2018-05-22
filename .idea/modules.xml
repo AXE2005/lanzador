@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DOMLauncher/DOMLauncher.iml" filepath="$PROJECT_DIR$/DOMLauncher/DOMLauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DOMLauncherCordovaLib/DOMLauncherCordovaLib.iml" filepath="$PROJECT_DIR$/DOMLauncherCordovaLib/DOMLauncherCordovaLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanzador.iml" filepath="$PROJECT_DIR$/lanzador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xwalk_core_library/xwalk_core_library.iml" filepath="$PROJECT_DIR$/xwalk_core_library/xwalk_core_library.iml" />
+    </modules>
+  </component>
+</project>

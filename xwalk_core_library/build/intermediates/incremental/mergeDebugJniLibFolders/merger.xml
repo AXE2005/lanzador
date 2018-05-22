@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\usuario\Documents\GitHub\Lanzador-SH\lanzador\xwalk_core_library\src\main\jniLibs"><file name="armeabi-v7a/libxwalkcore.so" path="C:\Users\usuario\Documents\GitHub\Lanzador-SH\lanzador\xwalk_core_library\src\main\jniLibs\armeabi-v7a\libxwalkcore.so"/></source></dataSet><dataSet config="debug"><source path="C:\Users\usuario\Documents\GitHub\Lanzador-SH\lanzador\xwalk_core_library\src\debug\jniLibs"/></dataSet></merger>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en-US" >
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="format-detection" content="telephone=no" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height">  
+<meta name="Description" content="DOMLauncher and DOMods, custom HTML5 Android Launcher.">
+<meta name="mobile-web-app-capable" content="yes">
+<title>Lanzador SHtv</title>
+
+<link rel="stylesheet" href="css/style2.css" type="text/css" media="screen">
+
+<script type="text/javascript" src="file:///android_asset/www/cordova.js"></script> 
+<script src="js/zepto.min.js"></script>
+
+</head>
+
+<body class="home blog">
+
+    <div class="flexc" id="page">
+        <div class="header">
+            <div class="logo"><a data-href=""><img id="logoIMG" src="images/logo.png"></a></div>
+            <span class="title" id="title">SmartHotel TV</span>
+            <ul class="menu">
+                <li><a data-href="#appPanel">Apps</a></li>
+                <li><a data-href="#systemPanel">Config</a></li>
+                <li><a data-href="#domodsPanel">Mensajes</a></li>
+                <li><a data-href="info.html">HotelInfo</a></li>
+                <li><a href="https://www.zamba.co/Common/PopupGame.aspx?gt=DEMO&gid=6b902a98-f6db-49b3-95a6-0dad0330687c" onClick="javascript:return openExternal(this)">HotelCasino</a></li>
+                <li><a id="mobileMenuToggle">menu</a></li>
+            </ul>
+        </div>	
+        <div class="flexr flex content" id="pageContent">
+            <div class="flexc left">
+                <ul class="menu">
+                <li><a data-href="#appPanel">Apps</a></li>
+                <li><a data-href="#systemPanel">Config</a></li>
+                <li><a data-href="#domodsPanel">Mensajes</a></li>
+                <li><a data-href="info.html">HotelInfo</a></li>
+                <li><a href="https://www.zamba.co/Common/PopupGame.aspx?gt=DEMO&gid=6b902a98-f6db-49b3-95a6-0dad0330687c" onClick="javascript:return openExternal(this)">HotelCasino</a></li>
+                </ul> 
+            </div>
+            <div class="flexc flex" id="contentPanels">   
+                <div id="appPanel" class="contentPanel flexr shown"></div>
+                <div id="infoPanel" class="contentPanel"> 
+                    <h1>Bienvenido</h1> 
+                
+</div>
+                <div id="systemPanel" class="contentPanel">
+                    <ul class="list">
+                        <li>
+                            <div class="text">
+                                <h3>Fullscreen</h3>
+                                <small>pantalla</small>
+                            </div>
+                            <label class="chkbx" id="toggleFullscreen"><input type="checkbox"><div></div></label>
+                        </li>
+                        <li>
+                            <div class="text">
+                                <h3>Orientación</h3>
+                                <small>Verticcal horizontal</small>
+                            </div>
+                            <div class="radioCol" id="orienationControl">
+                                <label class="radio" name="orientation" id="orientationLandscape"><input name="orientation" type="radio"><div>landscape</div></label>
+                                <label class="radio" name="orientation" id="orientationPortrait"><input name="orientation" type="radio"><div>portrait</div></label>
+                                <label class="radio" name="orientation" id="orientationRotate"><input name="orientation" checked type="radio"><div>rotar</div></label>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="text">
+                                <h3>Wifi</h3>
+                                <small>Habilita o desha la WIFI.</small>
+                            </div>
+                            <label class="chkbx" id="toggleWifi"><input type="checkbox"><div></div></label>
+                        </li>
+                        <li>
+                            <div class="text">
+                                <h3>Volumen</h3>
+                                <small>Aumenta o disminuye el volumen.</small>
+                            </div>
+                            <div class="buttonRow" id="mediaControls">
+                                <input type="button" class="decrease" value="&lt;">
+                                <div class="text">15</div>
+                                <input type="button" class="increase" value="&gt;">
+                            </div>
+                        </li>
+                        <li>
+                            <div class="text">
+                                <h3>Bluetooth</h3>
+                                <small>Prende o apaga el bluetooth</small>
+                            </div>
+                            <label class="chkbx" id="toggleBluetooth"><input type="checkbox"><div></div></label>
+                        </li>
+                        <li>
+                            <div class="text">
+                                <h3>Brillo</h3>
+                                <small>Aumenta el brillo.</small>
+                            </div>
+                            <div class="buttonRow" id="brightnessControls">
+                                <input type="button" class="decrease" value="&lt;">
+                                <div class="text">15</div>
+                                <input type="button" class="increase" value="&gt;">
+                            </div>                                
+                        </li>
+                 
+
+                    </ul>
+                </div>
+                <div id="domodsPanel" class="contentPanel">
+                    <ul class="list">
+
+                    </ul>
+                </div>
+                <div id="termsPanel" class="contentPanel">   
+  
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <small>
+                <div class="menu">
+                    <ul id="footerCallouts" class="menu">
+                    <li id="currentPage"><h3>#apps</h3></li>
+                    <li id="cellSignal"><h3>SeñalWifi- 100%</h3></li>
+                    </ul>
+                </div>		
+            </small>
+            <small>
+                <p>Copyright <a href="mailto:alejandro.c@wifienter.net">Alejandro Camargo</a> © 2018. | </p>
+                <p><a data-href="#termsPanel"  id="showTerms">Terminos</a></p>
+            </small>
+        </div>
+    </div>    
+<script src="js/dmd.js"></script>
+</body>
+</html>
